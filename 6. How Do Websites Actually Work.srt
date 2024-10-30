@@ -1,0 +1,328 @@
+﻿1
+00:00:00,680 --> 00:00:06,500
+So now that we've spoken about how the Internet works in this episode I want to talk about how exactly
+
+2
+00:00:06,500 --> 00:00:07,980
+do Web site work.
+
+3
+00:00:08,030 --> 00:00:12,800
+What exactly does a TMLC SS and Javascript do exactly.
+
+4
+00:00:12,830 --> 00:00:19,850
+Now in order to access a web page we all know that you need a browser right and that can be Chrome Safari
+
+5
+00:00:19,850 --> 00:00:22,160
+Firefox whatever is your favorite one.
+
+6
+00:00:22,160 --> 00:00:29,810
+These are all pieces of software that allow you to look up the IP address of your web site and be able
+
+7
+00:00:29,810 --> 00:00:36,860
+to receive data that it can render into these beautiful Web sites that we see now the data that you
+
+8
+00:00:36,860 --> 00:00:41,410
+receive from the server usually consists of three types of files.
+
+9
+00:00:41,670 --> 00:00:44,270
+H TMLC SS and Javascript.
+
+10
+00:00:44,270 --> 00:00:50,570
+And it's very likely that you would have come across these types of files or these words before because
+
+11
+00:00:50,780 --> 00:00:54,490
+they're so common and they're so integral to how web sites work.
+
+12
+00:00:54,530 --> 00:00:59,850
+But what exactly do they do and why are there so many different types of files.
+
+13
+00:00:59,900 --> 00:01:03,440
+Why can't we just have one file that's you know a Web site.
+
+14
+00:01:03,650 --> 00:01:06,260
+Well they actually have very different jobs.
+
+15
+00:01:06,260 --> 00:01:11,520
+The m code file is responsible for the structure of your web site.
+
+16
+00:01:11,630 --> 00:01:17,990
+So if a Web site was a house then the h him l would be the builder who would come in to build the walls
+
+17
+00:01:18,230 --> 00:01:19,780
+or put in a toilet.
+
+18
+00:01:19,790 --> 00:01:26,630
+Basically they establish the structure of your house and when you write HMO code you also build up the
+
+19
+00:01:26,630 --> 00:01:33,620
+structure of your website so you could use the amount add an image or button or text box whatever it
+
+20
+00:01:33,620 --> 00:01:35,890
+is that you need in your website.
+
+21
+00:01:35,960 --> 00:01:42,950
+Now the second type of file or CSSA files and these files are responsible for styling your Web site.
+
+22
+00:01:43,010 --> 00:01:48,740
+So if you are building a house then this would be the painters and decorators they would be going around
+
+23
+00:01:48,740 --> 00:01:55,610
+painting the walls or adding stylistic flourishes to your place and generally making the place look
+
+24
+00:01:55,640 --> 00:01:57,110
+the way that you want it to.
+
+25
+00:01:57,290 --> 00:02:00,380
+And that's exactly what CSSA code does as well.
+
+26
+00:02:00,410 --> 00:02:06,000
+When you incorporate CSSA it allows you to specify how you want your Web site to look.
+
+27
+00:02:06,140 --> 00:02:12,410
+So you could say that yes I have a button that I got from my age to mail but that button I want it to
+
+28
+00:02:12,410 --> 00:02:19,040
+be red and I want the text to be white and I want the font of the tax to be an aerial that is all done
+
+29
+00:02:19,130 --> 00:02:20,960
+using CSSA code.
+
+30
+00:02:20,960 --> 00:02:27,830
+Now the final component is the javascript code and this is the code that allows your Web site to actually
+
+31
+00:02:27,980 --> 00:02:30,410
+do things or have behavior.
+
+32
+00:02:30,470 --> 00:02:35,180
+And if you are building a house you would have the electrician come in who would be able to connect
+
+33
+00:02:35,300 --> 00:02:40,520
+the wires so that your lightbulbs actually switch on or somebody who comes in and does the plumbing
+
+34
+00:02:40,550 --> 00:02:45,360
+so that your toilet can actually flush and the javascript code does exactly that.
+
+35
+00:02:45,470 --> 00:02:50,000
+It allows your Web site to actually do things and have behavior.
+
+36
+00:02:50,090 --> 00:02:55,970
+So for example that person I added earlier on with my age HTML code only when I have the javascript
+
+37
+00:02:55,970 --> 00:03:00,620
+code can I actually make it do something interesting like send off an email.
+
+38
+00:03:00,620 --> 00:03:06,470
+So if we take the Google web site as an example again once we receive these files from Google server
+
+39
+00:03:06,650 --> 00:03:12,110
+when our browser loads up the ASTM l files will get to see the structure of the Web site.
+
+40
+00:03:12,110 --> 00:03:14,900
+Namely there's one image which has their logo.
+
+41
+00:03:14,900 --> 00:03:19,130
+There's two buttons and there's a text box where we can enter our search.
+
+42
+00:03:19,430 --> 00:03:26,560
+Now when we receive the CSSA files then that will modify the appearance of all of those components.
+
+43
+00:03:26,570 --> 00:03:33,590
+We don't have any more buttons or any more images but they now look the way that Google wanted it to.
+
+44
+00:03:34,070 --> 00:03:41,150
+And finally when we incorporate the javascript files then our website actually starts having behavior
+
+45
+00:03:41,370 --> 00:03:47,540
+has functionality and is actually able to do something rather than just display some images and text
+
+46
+00:03:47,540 --> 00:03:48,140
+to us.
+
+47
+00:03:48,170 --> 00:03:53,390
+Now with the knowledge that we've already acquired we can already start messing around with web sites
+
+48
+00:03:53,450 --> 00:03:54,640
+on the Internet.
+
+49
+00:03:54,680 --> 00:03:57,760
+So open up chrome and head over to tech crunch dot com.
+
+50
+00:03:57,860 --> 00:04:03,080
+And if you're not familiar with it it's basically a technology news Web site where I get my latest tech
+
+51
+00:04:03,080 --> 00:04:03,780
+news.
+
+52
+00:04:03,890 --> 00:04:13,180
+Now once you're over here I want you to right click on the title here and click on inspect.
+
+53
+00:04:13,190 --> 00:04:19,760
+Now this brings up the chrome developer tools and we're going to be exploring this in a lot more detail.
+
+54
+00:04:19,820 --> 00:04:23,610
+But for now we're going to use it to do something really simple.
+
+55
+00:04:23,630 --> 00:04:30,020
+You can see that when I right click on that heading and click inspect it automatically opens up the
+
+56
+00:04:30,020 --> 00:04:34,100
+entire code file that was used to render this website.
+
+57
+00:04:34,100 --> 00:04:37,740
+So these are all of the elements that make up this Web site.
+
+58
+00:04:37,850 --> 00:04:44,720
+And when you click on inspect it will highlight to you the part of the code that corresponds to the
+
+59
+00:04:44,720 --> 00:04:46,380
+thing that you right clicked right.
+
+60
+00:04:46,400 --> 00:04:48,720
+In this case it's this title.
+
+61
+00:04:48,920 --> 00:04:54,340
+And inside this title you can see that there is a link which means that when you click on it.
+
+62
+00:04:54,350 --> 00:04:58,770
+It'll go to another web page but it's also got a bit of text.
+
+63
+00:04:58,840 --> 00:05:04,580
+So right inside chrome developer tools if you double click on the bit of text that corresponds to the
+
+64
+00:05:04,580 --> 00:05:07,640
+title you can actually edit it.
+
+65
+00:05:07,640 --> 00:05:11,380
+So let's go ahead and change the front page of tech crunch.
+
+66
+00:05:11,450 --> 00:05:12,520
+Let's say something like
+
+67
+00:05:16,060 --> 00:05:21,400
+So this is a great way of pranking your friends especially when they can see that you're on Tech Crunch
+
+68
+00:05:21,430 --> 00:05:22,040
+dotcom.
+
+69
+00:05:22,090 --> 00:05:28,540
+And the title of any of the text on the Web site is what you wanted to say and this is a great joke
+
+70
+00:05:28,540 --> 00:05:33,850
+to play on friends who are maybe not quite as technologically advanced as you because they haven't taken
+
+71
+00:05:33,850 --> 00:05:36,330
+the course that you have now unfortunately.
+
+72
+00:05:36,370 --> 00:05:41,300
+When I hit refresh on this Web site all of my good work is gone.
+
+73
+00:05:41,410 --> 00:05:49,660
+And the reason is because when I'm editing it here inside my browser I'm actually changing the local
+
+74
+00:05:49,660 --> 00:05:56,950
+copy of this file that I got back from the Google servers but when I click refresh then that makes a
+
+75
+00:05:56,950 --> 00:06:02,280
+new request to the Google servers to load up a fresh copy of the Web site.
+
+76
+00:06:02,290 --> 00:06:08,110
+So of course then an update to the original content but in the coming lessons we're going to be working
+
+77
+00:06:08,110 --> 00:06:15,960
+with HMO CSSA and Javascript so that you can create and host live on the internet your very own Web
+
+78
+00:06:15,960 --> 00:06:21,340
+sites and through learning how to code and how to build web sites you're going to be able to make websites
+
+79
+00:06:21,430 --> 00:06:27,250
+that say anything that you wanted to look the way that you wanted to and have the functionality that
+
+80
+00:06:27,250 --> 00:06:28,230
+you need.
+
+81
+00:06:28,240 --> 00:06:30,150
+So all of that and more.
+
+82
+00:06:30,340 --> 00:06:31,780
+I'll see you on the next lesson.
+
